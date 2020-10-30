@@ -1,0 +1,30 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #16697a;
+}
+
+h1 {
+  text-align: center;
+  color: #db6400;
+
+  font-family: lobster;
+  font-size: 6rem;
+  text-shadow: 10px 0 #000;
+}
+
+p {
+  font-size: 2rem;
+  font-family: "Indie Flower";
+  text-align: center;
+  color: #db6400;
+}
